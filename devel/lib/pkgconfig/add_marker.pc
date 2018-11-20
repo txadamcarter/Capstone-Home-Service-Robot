@@ -1,0 +1,8 @@
+prefix=/home/workspace/catkin_ws/devel
+
+Name: add_marker
+Description: Description of add_marker
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/workspace/catkin_ws/devel/lib 
+Requires: roscpp visualization_msgs message_runtime message_generation std_msgs rospy location_monitor
